@@ -4,6 +4,8 @@ Assignmen for my university class
 
 **Pauta de evaluacion**
 
+****EXTRA: DEBE INCLUIR PATRON FABRICA Y SINGLETON****
+
 El Banco Think  requiere una solución tecnológica para el área de créditos, para eso se necesita que el sistema permita realizar lo siguiente:
 Para el registro de los créditos de distinto ámbito, se debe manejar lo siguiente:
 Se debe registrar en un formulario con los siguientes datos:
